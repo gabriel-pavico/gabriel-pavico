@@ -6,16 +6,16 @@
 
 Education
 
-2019 - 2022 (ongoing): Master in Geographic Information Sciences (Lund University, Sweden)
+- 2019 - 2022 (ongoing): Master in Geographic Information Sciences (Lund University, Sweden)
 Thesis on Wildfires using GIS
 
-2013 - 2015: Master in Applied Cultural Analysis (Lund University, Sweden)
+- 2013 - 2015: Master in Applied Cultural Analysis (Lund University, Sweden)
 Thesis on Technology Acceptance
 
-2010 - 2013: Master of Science in Marketing (De La Salle University, Philippines)
+- 2010 - 2013: Master of Science in Marketing (De La Salle University, Philippines)
 Thesis on Consumer Behaviour
 
-2004 - 2007: Bachelor of Arts in Philippine Studies, major in Filipino in Mass Media (De La Salle University, Philippines)
+- 2004 - 2007: Bachelor of Arts in Philippine Studies, major in Filipino in Mass Media (De La Salle University, Philippines)
 Thesis using Discourse Analysis
 
 Professional Experience
