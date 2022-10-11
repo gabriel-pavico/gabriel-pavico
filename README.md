@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gabriel Romeo Ferriols Pavico
+- 👋 Hi, I’m Gabriel
 - 👀 I’m interested in Geographic Information Systems, environment and anthropology
 - 🌱 I’m currently learning GIS, Python and Machine Learning
 - 💞️ I’m looking to collaborate on fun projects where I can develop on these skills, while trying to make an impact to society
